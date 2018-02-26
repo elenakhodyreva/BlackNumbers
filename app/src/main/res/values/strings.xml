@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Black Numbers</string>
+
+    <string name="hint_for_tv">Введите номер телефона (в формате \"+\" далее код страны, и номер)
+        и имя. Для удаления номера долго удерживайте его на списке номеров.</string>
+    <string name="phn_number">Номер телефона</string>
+    <string name="name">Имя</string>
+    <string name="add">Добавить</string>
+    <string name="delete_result">Удалить запись</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
